@@ -19,10 +19,10 @@
 
 I am currently in my **5th year** of a Double Degree. My academic background bridges the gap between rigorous mathematical logic and software engineering, allowing me to specialize in the fields of Data Science and Machine Learning.
 
-- 🔭 **Current Focus:** Deepening my knowledge in **Deep Learning**, **LLMs**, and **Generative AI** architectures.
-- 🎓 **Education:** University of Granada (UGR) - Double Degree in Computer Engineering + Mathematics.
-- 🌱 **Continuous Learning:** Self-studying modern AI frameworks and state-of-the-art architectures.
-- 🧠 **Interests:** Machine Learning, RAG (Retrieval-Augmented Generation), Applied Mathematics.
+-  **Current Focus:** Deepening my knowledge in **Deep Learning**, **LLMs**, and **Generative AI** architectures.
+-  **Education:** University of Granada (UGR) - Double Degree in Computer Engineering + Mathematics.
+-  **Continuous Learning:** Self-studying modern AI frameworks and state-of-the-art architectures.
+-  **Interests:** Machine Learning, RAG (Retrieval-Augmented Generation), Applied Mathematics.
 
 ---
 
@@ -41,7 +41,7 @@ I am currently in my **5th year** of a Double Degree. My academic background bri
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/🦜🔗_LangChain-1C3C3C?style=for-the-badge&color=white&labelColor=1C3C3C" alt="LangChain" />
+  <img src="https://img.shields.io/badge/🔗_LangChain-1C3C3C?style=for-the-badge&color=white&labelColor=1C3C3C" alt="LangChain" />
 </div>
 
 **Databases & Tools**
