@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Mois%C3%A9s+Jim%C3%A9nez;Developer+%7C+Data+Scientist;Math+%26+Computer+Science" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Transforming complex mathematical logic into efficient neural architectures.</h3>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/moisesjf10/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -73,13 +71,4 @@ I am a fifth-year student pursuing a dual degree in **Computer Engineering and M
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moisesjf10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesjf10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" width="48%" />
-</p>
-
-<div align="center">
-  <i>Committed to consistency and continuous learning in every line of code.</i>
-</div>
