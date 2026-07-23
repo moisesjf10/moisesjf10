@@ -1,53 +1,85 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Mois%C3%A9s+Jim%C3%A9nez;Developer+%7C+Data+Scientist;Math+%26+Computer+Science" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Transforming complex mathematical logic into efficient neural architectures.</h3>
+
 <div align="center">
-
-# Hi, I'm Moisés Jiménez 👋
-
-### Double Degree Student in Computer Engineering and Mathematics (UGR)
-### Passionate about Data Science and Artificial Intelligence
-
----
-
-<a href="https://www.linkedin.com/in/mois%C3%A9s-jim%C3%A9nez-fern%C3%A1ndez-a06a8a347/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin" alt="Moisés' LinkedIn" />
-</a>
-
+  <a href="https://www.linkedin.com/in/moisesjf10/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:moisesjf10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
-<br />
+<br/>
 
-### 👨‍💻 About Me
+## About Me
 
-I am currently in my **5th year** of a Double Degree. My academic background bridges the gap between rigorous mathematical logic and software engineering, allowing me to specialize in the fields of Data Science and Machine Learning.
+I am a fifth-year student pursuing a dual degree in **Computer Engineering and Mathematics** at the University of Granada (UGR). My profile is defined by a constant duality: the analytical precision of mathematical thinking and the practical implementation of software engineering. I apply this rigorous logical foundation to solving complex algorithmic and architectural problems.
 
--  **Current Focus:** Deepening my knowledge in **Deep Learning**, **LLMs**, and **Generative AI** architectures.
--  **Education:** University of Granada (UGR) - Double Degree in Computer Engineering + Mathematics.
--  **Continuous Learning:** Self-studying modern AI frameworks and state-of-the-art architectures.
--  **Interests:** Machine Learning, RAG (Retrieval-Augmented Generation), Applied Mathematics.
+*   **Main Focus:** Data Science and Artificial Intelligence (Machine Learning, Deep Learning, LLMs).
+*   **Technical Philosophy:** I am passionate about understanding the inner workings of tools. Therefore, I prioritize building complex neural network architectures from scratch, mastering the fundamentals before abstracting with frameworks.
 
 ---
 
-### 🛠 Tech Stack
+## My Tech Stack
 
 **Programming Languages**
-<div style="display: flex; gap: 10px; margin-bottom: 20px;">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</div>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
 
-**Data Science & Artificial Intelligence**
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/🔗_LangChain-1C3C3C?style=for-the-badge&color=white&labelColor=1C3C3C" alt="LangChain" />
-</div>
+**Data Science & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
 
-**Databases & Tools**
-<div style="display: flex; gap: 10px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+**Tools & Infrastructure**
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+**Academic & Scientific Typesetting**
+<p>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white" alt="Typst" />
+</p>
+
+---
+
+## Featured Projects
+
+**Vision Transformer (ViT) from scratch**
+> Comprehensive implementation of a computer vision model based on the Transformer architecture, built without relying on conventional Deep Learning libraries.
+> *   **Technologies:** Python, NumPy.
+> *   **Milestones:** Developed a custom BPE (Byte-Pair Encoding) tokenizer and achieved **94.8% accuracy** in MNIST dataset classification using exclusively native matrix operations.
+
+**AI Voice Assistant**
+> Intelligent and automated voice assistant.
+> *   **Technologies:** FastAPI, Docker, Gemini API, Google Workspace APIs, Telegram.
+> *   **Milestones:** End-to-end integration with the Telegram platform for voice command processing, backed by a containerized architecture and seamless connectivity with the Google ecosystem.
+
+**RAG-Based Chatbot**
+> Advanced conversational system featuring Retrieval-Augmented Generation.
+> *   **Technologies:** LangChain, ChromaDB, Gemini API, Streamlit, Docker.
+> *   **Milestones:** Deployed a complete solution for knowledge extraction and Q&A over specific document bases, hosted on a web interface and packaged for distribution.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moisesjf10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesjf10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" width="48%" />
+</p>
+
+<div align="center">
+  <i>Committed to consistency and continuous learning in every line of code.</i>
 </div>
