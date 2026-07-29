@@ -15,60 +15,55 @@
 
 ## About Me
 
-I am a fifth-year student pursuing a dual degree in **Computer Engineering and Mathematics** at the University of Granada (UGR). My profile is defined by a constant duality: the analytical precision of mathematical thinking and the practical implementation of software engineering. I apply this rigorous logical foundation to solving complex algorithmic and architectural problems.
+I'm a final-year student pursuing a dual degree in **Computer Engineering and Mathematics** at the University of Granada (UGR). 
 
-*   **Main Focus:** Data Science and Artificial Intelligence (Machine Learning, Deep Learning, LLMs).
-*   **Technical Philosophy:** I am passionate about understanding the inner workings of tools. Therefore, I prioritize building complex neural network architectures from scratch, mastering the fundamentals before abstracting with frameworks.
+My primary interest lies in **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy bridging mathematical theory with practical software engineering, especially when it comes to understanding how models work from first principles rather than treating them as black boxes.
 
 ---
 
-## My Tech Stack
+## Technical Stack
 
-**Programming Languages**
+**Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-**Data Science & Machine Learning**
+**Data Science & AI**
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </p>
 
-**Tools & Infrastructure**
+**Tools & Frameworks**
 <p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-**Academic & Scientific Typesetting**
-<p>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white" alt="Typst" />
 </p>
 
 ---
 
 ## Featured Projects
 
-**Vision Transformer (ViT) from scratch**
-> Comprehensive implementation of a computer vision model based on the Transformer architecture, built without relying on conventional Deep Learning libraries.
-> *   **Technologies:** Python, NumPy.
-> *   **Milestones:** Developed a custom BPE (Byte-Pair Encoding) tokenizer and achieved **94.8% accuracy** in MNIST dataset classification using exclusively native matrix operations.
+### 🧠 [Neural Network & Transformer from Scratch](https://github.com/moisesjf10/NN)
+A custom deep learning framework built using **only NumPy**, without PyTorch or TensorFlow.
+* Implemented Dense, Conv, RNN, LayerNorm, Multi-Head Attention, and Transformer blocks with BPE tokenization.
+* Focuses on mastering backpropagation, gradients, and optimization (Adam/SGD) at a pure mathematical level.
 
-**AI Voice Assistant**
-> Intelligent and automated voice assistant.
-> *   **Technologies:** FastAPI, Docker, Gemini API, Google Workspace APIs, Telegram.
-> *   **Milestones:** End-to-end integration with the Telegram platform for voice command processing, backed by a containerized architecture and seamless connectivity with the Google ecosystem.
+### 🕸️ [Agentic Graph-RAG System](https://github.com/moisesjf10/RAG)
+An end-to-end Retrieval-Augmented Generation system combining vector similarity with graph traversal.
+* Combines **Qdrant** (vector database) and **Neo4j** (knowledge graph) navigated by **LangGraph** agents.
+* Includes a **FastAPI** backend streaming updates via WebSockets to an interactive **React** visual interface.
 
-**RAG-Based Chatbot**
-> Advanced conversational system featuring Retrieval-Augmented Generation.
-> *   **Technologies:** LangChain, ChromaDB, Gemini API, Streamlit, Docker.
-> *   **Milestones:** Deployed a complete solution for knowledge extraction and Q&A over specific document bases, hosted on a web interface and packaged for distribution.
-
----
-
+### 🏠 [Granada Real Estate Analytics & Valuation App](https://github.com/moisesjf10/Scraper_granada)
+A full data pipeline and web application for analyzing and predicting property prices in Granada.
+* Web scraping using **Playwright**, data cleaning, feature engineering, and price prediction with **XGBoost**.
+* Interactive **FastAPI** web interface with real-time valuation, bargain detection, and neighborhood market stats.
 
