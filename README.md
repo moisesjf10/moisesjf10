@@ -52,17 +52,17 @@ My primary interest lies in **Artificial Intelligence, Machine Learning, and Dat
 
 ## Featured Projects
 
-### 🧠 [Neural Network & Transformer from Scratch](https://github.com/moisesjf10/NN)
+### [Neural Network & Transformer from Scratch](https://github.com/moisesjf10/NN)
 A custom deep learning framework built using **only NumPy**, without PyTorch or TensorFlow.
 * Implemented Dense, Conv, RNN, LayerNorm, Multi-Head Attention, and Transformer blocks with BPE tokenization.
 * Focuses on mastering backpropagation, gradients, and optimization (Adam/SGD) at a pure mathematical level.
 
-### 🕸️ [Agentic Graph-RAG System](https://github.com/moisesjf10/RAG)
+### [Agentic Graph-RAG System](https://github.com/moisesjf10/RAG)
 An end-to-end Retrieval-Augmented Generation system combining vector similarity with graph traversal.
 * Combines **Qdrant** (vector database) and **Neo4j** (knowledge graph) navigated by **LangGraph** agents.
 * Includes a **FastAPI** backend streaming updates via WebSockets to an interactive **React** visual interface.
 
-### 🏠 [Granada Real Estate Analytics & Valuation App](https://github.com/moisesjf10/Scraper_granada)
+### [Granada Real Estate Analytics & Valuation App](https://github.com/moisesjf10/Scraper_granada)
 A full data pipeline and web application for analyzing and predicting property prices in Granada.
 * Web scraping using **Playwright**, data cleaning, feature engineering, and price prediction with **XGBoost**.
 * Interactive **FastAPI** web interface with real-time valuation, bargain detection, and neighborhood market stats.
